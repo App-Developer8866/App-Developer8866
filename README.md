@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hi, I'm Muttraf 👋
+
+Hello everyone, my name is Muhammad Muttraf Rasool and I have a goal to work as a full-stack developer for a big tech company one day. Currently, I am working as a React Js developer where I use JavaScript, React, and HTML since I this year and also, I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork. I am really excited about the opportunity to work remotely with a strong tech company and I am proud of the steps I am taking to achieve this.
+
+## Find me around the web :earth_asia:
+- [Email](muttrafgujjar.787@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-muttraf-rasool-421819202)
+- [Twitter](@MMuttrafRasool)
 
 <!--
 **App-Developer8866/App-Developer8866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m curretly working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

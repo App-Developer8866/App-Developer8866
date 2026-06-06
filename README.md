@@ -1,6 +1,14 @@
-# Hi, I'm Muttraf 👋
+# Hi, I'm Muhammmad Muttraf Rasool 👋
 
-Hello everyone! My name is Muhammad Muttraf Rasool, and I have a goal to work as a full-stack developer for a big tech company one day. Currently, I am working as a React Js developer where I use JavaScript, React, and HTML since July of this year, and I am also studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork. I am really excited about the opportunity to work remotely with a strong tech company, and I am proud of the steps I am taking to achieve this.
+I am a React.js and Next.js Frontend Developer focused on building scalable, clean, and user-friendly enterprise web applications.
+
+My work includes developing reusable UI components, admin portals, dashboards, content-driven websites, and business applications using React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, and Framer.
+
+I have worked on enterprise-level projects where frontend quality, performance, maintainability, and collaboration matter. My experience includes converting business requirements into responsive interfaces, integrating APIs, improving component reusability, and working with teams on project structure and frontend architecture.
+
+I enjoy building interfaces that are not only visually clean but also practical, scalable, and easy for teams to maintain.
+
+Currently, I am open to remote React.js and Next.js frontend opportunities where I can contribute to modern web applications, enterprise applications, dashboards, and digital platforms.
 
 ## Find me around the web :earth_asia:
 - [Email](muhammadmuttrafrasool@gmail.com)

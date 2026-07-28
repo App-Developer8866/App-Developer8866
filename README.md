@@ -1,17 +1,21 @@
 # Hi, I'm Muhammmad Muttraf Rasool 👋
 
-I am a React.js and Next.js Frontend Developer focused on building scalable, clean, and user-friendly enterprise web applications.
+I’m a React.js and Next.js Frontend Engineer focused on building scalable, maintainable, and user-friendly enterprise web applications, with growing expertise in full-stack development using Node.js.
 
-My work includes developing reusable UI components, admin portals, dashboards, content-driven websites, and business applications using React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, and Framer.
+I specialize in creating reusable UI systems, dashboards, admin portals, and business applications using React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and modern frontend technologies.
 
-I have worked on enterprise-level projects where frontend quality, performance, maintainability, and collaboration matter. My experience includes converting business requirements into responsive interfaces, integrating APIs, improving component reusability, and working with teams on project structure and frontend architecture.
+My experience includes transforming business requirements into production-ready applications, designing reusable component architectures, integrating APIs, managing complex frontend workflows, and collaborating with backend teams to deliver complete digital solutions.
 
-I enjoy building interfaces that are not only visually clean but also practical, scalable, and easy for teams to maintain.
+I have worked on enterprise platforms where performance, scalability, maintainability, and user experience are critical. I enjoy solving engineering challenges by creating clean frontend architectures while continuously expanding my backend development skills with Node.js and modern server-side technologies.
 
-Currently, I am open to remote React.js and Next.js frontend opportunities where I can contribute to modern web applications, enterprise applications, dashboards, and digital platforms.
+Beyond frontend development, I am exploring full-stack engineering practices including backend APIs, application architecture, and end-to-end product development.
+
+I continuously improve my skills through structured learning, including Meta React Specialization, Google AI Fundamentals, and practical exploration of modern development workflows.
+
+I am open to remote opportunities where I can contribute as a React.js / Next.js Engineer and continue growing toward full-stack development while building scalable digital products.
 
 ## Find me around the web :earth_asia:
-- [Email](muhammadmuttrafrasool@gmail.com)
+- [Email](mailto:muhammadmuttrafrasool@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-muttraf-rasool/)
 - [Twitter](@MMuttrafRasool)
 
